@@ -128,7 +128,7 @@ class _HomePageState extends State<HomePage> {
                             borderRadius: BorderRadius.circular(10)),
                         child: const Center(
                             child: Text(
-                          'By Clicking Here!',
+                          'Click Here!',
                           style: TextStyle(
                               fontSize: 25,
                               fontWeight: FontWeight.bold,
