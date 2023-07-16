@@ -59,9 +59,9 @@ class _HomePageState extends State<HomePage> {
       setState(() {
         showSpinner = false;
       });
-      print('image uploaded');
+      print('Image Uploaded Successfully!');
     } else {
-      print('failed');
+      print('Failed!!');
       setState(() {
         showSpinner = false;
       });
